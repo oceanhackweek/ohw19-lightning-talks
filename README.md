@@ -1,7 +1,7 @@
 # ohw19-lightning-talks
 A repo for sharing lightning talks from Wednesday afternoon
 
-- IOOS Compliance Checker by Micah Wengren
+- [IOOS Compliance Checker](https://github.com/oceanhackweek/ohw19-lightning-talks/blob/master/OHW2019-Wengren-ComplianceChecker.pdf) by Micah Wengren
 
 - `pocean-core` by Filipe Fernandes
 
